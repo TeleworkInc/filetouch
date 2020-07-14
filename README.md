@@ -6,8 +6,6 @@ or `filetouch.file` is called.
 
 **Files are not modified if they already exist.**
 
-Form:
-
 ```javascript
 const filetouch = require('filetouch');
 
