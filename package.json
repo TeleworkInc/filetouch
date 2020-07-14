@@ -1,8 +1,8 @@
 {
-  "name": "nodetouch",
-  "version": "1.1.0",
+  "name": "filetouch",
+  "version": "1.2.0",
   "main": "index.js",
   "repository": "https://github.com/TeleworkInc/nodetouch.git",
-  "author": "Christian Lewis <ctjl96@gmail.com>",
+  "author": "Christian Lewis <hello@trytelework.com",
   "license": "MIT"
 }
